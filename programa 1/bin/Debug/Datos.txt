@@ -1,0 +1,16 @@
+Lote: 1
+1. Paco
+86 / 48 
+TME: 7
+2. Alondra
+80 + 31 
+TME: 5
+3. Angela
+77 / 42 
+TME: 6
+4. Eduardo
+62 + 30 
+TME: 10
+3. Angela
+77 / 42 
+TME: 6

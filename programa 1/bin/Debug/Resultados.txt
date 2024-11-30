@@ -1,0 +1,13 @@
+Lote: 1
+1. Paco
+86 / 48  = 1
+
+2. Alondra
+ERROR
+
+4. Eduardo
+62 + 30  = 92
+
+3. Angela
+77 / 42  = 1
+
